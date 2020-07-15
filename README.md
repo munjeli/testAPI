@@ -1,6 +1,5 @@
-# slacktest
-Slack security code challenge
-
+# testAPI
+scaffolding, templates and testing for APIs in Go
 ### Auth
 I've spent my entire career as a DevOps doing immutable infrastructure and as a result, I've never authed anything except with a secret service. First there was a custom service at one of my jobs, then some platform level stuff, and then Hashicorp Vault. Running Vault on the instance occurred to me but seemed overblown, so I just used a password file with a module for middleware.  
 ### Application 
